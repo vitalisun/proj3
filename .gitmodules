@@ -1,0 +1,3 @@
+[submodule "modules/proj2"]
+	path = modules/proj2
+	url = https://github.com/vitalisun/proj2
